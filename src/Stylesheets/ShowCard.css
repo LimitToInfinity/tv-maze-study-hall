@@ -1,0 +1,14 @@
+.show-card {
+    margin: 1rem;
+}
+  
+.show-card:hover {
+transform: scale3d(1.5, 1.5, 1);
+}
+
+.show-info {
+    border-color: gold;
+    border-style: solid;
+    border-top: none;
+    padding: 0 0.5rem;
+}

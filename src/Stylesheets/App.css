@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  flex-flow: wrap;
+  justify-content: center;
+  margin: 10rem;
+}
+
+h1 {
+  width: 100%;
+}
+
+.search-bar {
+  width: 100%;
+  height: 3rem;
+  font-size: 2rem;
+}
