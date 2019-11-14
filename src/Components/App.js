@@ -42,9 +42,7 @@ class App extends Component {
 
     return shows.filter(show => {
       return show.name.toLowerCase()
-        .includes(
-          searchTerm.toLowerCase()
-      );
+        .includes( searchTerm.toLowerCase() );
     })
   }
 
